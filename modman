@@ -2,6 +2,7 @@ app/code/local/Amasty   app/code/local/Amasty
 app/design/adminhtml/default/default/layout/amasty  app/design/adminhtml/default/default/layout/amasty
 app/design/adminhtml/default/default/template/amacart   app/design/adminhtml/default/default/template/amacart
 app/design/adminhtml/default/default/template/amasty    app/design/adminhtml/default/default/template/amasty
+app/design/adminhtml/default/default/template/amaudit   app/design/adminhtml/default/default/template/amaudit
 app/design/adminhtml/default/default/template/amgeoip   app/design/adminhtml/default/default/template/amgeoip
 app/design/frontend/base/default/layout/amasty  app/design/frontend/base/default/layout/amasty
 app/design/frontend/base/default/layout/amacart.xml app/design/frontend/base/default/layout/amacart.xml
