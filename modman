@@ -9,7 +9,15 @@ app/design/frontend/base/default/layout/amacart.xml app/design/frontend/base/def
 app/design/frontend/base/default/template/amacart   app/design/frontend/base/default/template/amacart
 app/design/frontend/base/default/template/amasty    app/design/frontend/base/default/template/amasty
 app/etc/modules/*   app/etc/modules/
-app/locale/en_US/template/* app/locale/en_US/template/
+app/locale/en_US/template/email/amasty  app/locale/en_US/template/email/amasty
+app/locale/en_US/template/email/amaudit_log_mailing_template.html   app/locale/en_US/template/email/amaudit_log_mailing_template.html
+app/locale/en_US/template/email/amaudit_suspicious_log_mailing_template.html    app/locale/en_US/template/email/amaudit_suspicious_log_mailing_template.html
+app/locale/en_US/template/email/amaudit_unsuccessful_log_mailing_template.html  app/locale/en_US/template/email/amaudit_unsuccessful_log_mailing_template.html
+app/locale/en_US/Amasty_Acart.csv   app/locale/en_US/Amasty_Acart.csv
+app/locale/en_US/Amasty_Audit.csv   app/locale/en_US/Amasty_Audit.csv
+app/locale/en_US/Amasty_Base.csv    app/locale/en_US/Amasty_Base.csv
+app/locale/en_US/Amasty_Promo.csv   app/locale/en_US/Amasty_Promo.csv
+app/locale/en_US/Amasty_PromoBannersLite.csv    app/locale/en_US/Amasty_PromoBannersLite.csv
 js/amasty   js/amasty
 lib/Amasty  lib/Amasty
 skin/adminhtml/default/default/amasty   skin/adminhtml/default/default/amasty
