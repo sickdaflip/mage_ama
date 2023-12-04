@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) Amasty (https://www.amasty.com)
+ * @package Abandoned Cart Email
+ */-->
+<layout>
+    <default>
+        <reference name="notifications">
+            <block type="amacart/adminhtml_notifications" name="amacart_notifications" template="amacart/notifications.phtml" />
+        </reference>
+    </default>
+</layout>

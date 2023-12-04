@@ -1,0 +1,7 @@
+{
+  "name": "sickdaflip/mage_ama",
+  "type": "magento-module",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
